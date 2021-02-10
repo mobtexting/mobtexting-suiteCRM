@@ -2,7 +2,7 @@
 
 ## Step 0 - Make sure this is for you ##
 
-First [download the install kit](https://github.com/mobtexting/mobtexting-suiteCRM/archive/master.zip) and test if this code works for you.
+First [download the install kit](https://github.com/mobtexting/mobtexting-suiteCRM/archive/mainmaster.zip) and test if this code works for you.
 
 ## Step 1 - Creating the zip package ##
 
