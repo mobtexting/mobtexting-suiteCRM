@@ -22,7 +22,7 @@ When viewing the archive contents, `manifest.php` and the other folders need to 
 	<img src="/images/image2.jpg">
 
 
-4) Navigate to `Admin` panel full down we can see `MOBtexting SMS Configuration` open and config `MOBtexting API` setting after save it.
+4) Navigate to `Admin` panel full down we can see `MOBtexting API Configuration` open and config `MOBtexting API` setting after save it.
 
 	<img src="/images/image7.jpg">
 	<img src="/images/image8.png">
