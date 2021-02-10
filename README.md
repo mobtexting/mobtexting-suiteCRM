@@ -24,8 +24,8 @@ When viewing the archive contents, `manifest.php` and the other folders need to 
 
 4) Navigate to `Admin` panel full down we can see `MOBtexting SMS Configuration` open and config `MOBtexting API` setting after save it.
 
-	<img src="/images/image3.jpg">
-	<img src="/images/image4.png">
+	<img src="/images/image7.jpg">
+	<img src="/images/image8.png">
 
 	
 5) Now you can see Module’s ['Accounts','Contacts','Cases','Leads','Meetings'] ListView with sms icon click and send message.
