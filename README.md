@@ -29,6 +29,12 @@ When viewing the archive contents, `manifest.php` and the other folders need to 
 
 	
 5) Now you can see Module’s ['Accounts','Contacts','Cases','Leads','Meetings'] ListView with sms icon click and send message.
+
+6) This is `Contact Template Configuration` for whenever create new contact this template message will send automatic.
+	<img src="/images/image5.jpg">
+  
+   Like `Lead Template Configuration`
+   	<img src="/images/image6.jpg">
     
 # Security #
   If you discover any security related issues, please email (support@mobtexting.com) instead of using the issue tracker.
