@@ -15,26 +15,24 @@ When viewing the archive contents, `manifest.php` and the other folders need to 
 
 2) After installed, Navigate to SuiteCRM `Module Loader` located in SuiteCRM Admin Panel.
 
-  	<img src="/images/image.jpg" >
+  	<img src="/images/info1.jpg" >
 3) Upload 'MOBtexting` addon zip file and hit Install button to install addon in the system. It will take a couple minutes to install.
 
-	<img src="/images/image1.jpg">
-	<img src="/images/image2.jpg">
-
+	<img src="/images/info2.jpg">
 
 4) Navigate to `Admin` panel full down we can see `MOBtexting API Configuration` open and config `MOBtexting API` setting after save it.
 
-	<img src="/images/image7.jpg">
-	<img src="/images/image8.png">
+	<img src="/images/info3.jpg">
+	<img src="/images/info4.png">
 
 	
 5) Now you can see Module’s ['Accounts','Contacts','Cases','Leads','Meetings'] ListView with sms icon click and send message.
 
 6) This is `Contact Template Configuration` for whenever create new contact this template message will send automatic.
-	<img src="/images/image5.png">
+	<img src="/images/info5.png">
   
    Like `Lead Template Configuration`
-   	<img src="/images/image6.png">
+   	<img src="/images/info6.png">
     
 # Security #
   If you discover any security related issues, please email (support@mobtexting.com) instead of using the issue tracker.
